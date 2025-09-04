@@ -8,3 +8,6 @@ Para rodar um desses scripts e criar a animação tem que rodar o seguinte scrip
 Para o script 2_linear_approximation.py, isso fica:
 
     manim -pqh 2_linear_approximation.py 2_linear_approximation
+
+
+O arquivo teste_serie.py é onde você pode testar a série de Taylor e Gn para a Raíz Quadrada.
